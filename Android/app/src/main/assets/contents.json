@@ -294,7 +294,7 @@
       "name": "Tebra",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "tebra_ikona.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -316,6 +316,14 @@
         },
         {
           "image_file": "03_Tebra_bori_se.webp",
+          "emojis": [
+            "😦",
+            "✊",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "04_Tebra_izdrzi_frende.webp",
           "emojis": [
             "😦",
             "✊",
