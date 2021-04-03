@@ -160,6 +160,83 @@
     },
     {
       "identifier": "2",
+      "name": "Ričard 2",
+      "publisher": "KUD Bleke i Konji",
+      "tray_image_file": "ricard2_ikona.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Ricard2_a_bog_te_jeba.webp",
+          "emojis": [
+            "🤷",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "02_Ricard2_tebi_ovo_dobro.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "03_Ricard2_dosta_nalij.webp",
+          "emojis": [
+            "🍺",
+            "🍹",
+            "🍷"
+          ]
+        },
+        {
+          "image_file": "04_Ricard2_stablo.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "05_Ricard2_kruv_vino.webp",
+          "emojis": [
+            "🍞",
+            "🥖",
+            "🍷"
+          ]
+        },
+        {
+          "image_file": "06_Ricard2_200_kn.webp",
+          "emojis": [
+            "💸",
+            "💰"
+          ]
+        },
+        {
+          "image_file": "07_Ricard2_osam_ipo.webp",
+          "emojis": [
+            "⏰",
+            "🕗"
+          ]
+        },
+        {
+          "image_file": "08_Ricard2_govno_vlasko.webp",
+          "emojis": [
+            "📢",
+            "👨‍🌾"
+          ]
+        },
+        {
+          "image_file": "09_Ricard2_un_se_bogu.webp",
+          "emojis": [
+            "⛪"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
       "name": "Dragan",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "dragan_ikona.png",
@@ -196,11 +273,24 @@
           "emojis": [
             "🥺"
           ]
+        },
+        {
+          "image_file": "05_Dragan_idemo_popit.webp",
+          "emojis": [
+            "🍺",
+            "🍹"
+          ]
+        },
+        {
+          "image_file": "06_Dragan_prekini_bestimat.webp",
+          "emojis": [
+            "⛔"
+          ]
         }
       ]
     },
     {
-      "identifier": "3",
+      "identifier": "5",
       "name": "Tebra",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "tebra_ikona.png",
@@ -225,10 +315,11 @@
           ]
         },
         {
-          "image_file": "03_Ricard_osmijeh.webp",
+          "image_file": "03_Tebra_bori_se.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "😦",
+            "✊",
+            "💪"
           ]
         }
       ]
