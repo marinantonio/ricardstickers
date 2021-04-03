@@ -1,3 +1,47 @@
+# Ričard stickers
+
+
+Ričard da da! Iđemooo!
+
+![featured art](/.github/assets/featured art.png?raw=true) 
+
+Zamirišala mi je neka lova i odlučio sam je ugrabit! Pa sam tako natrpa ove dosad napravljene stickere i stavio ih na Play Store! Navodno sve mukte! 
+
+Sad zaozbiljno, nisam siguran tko su autori pojedinih stickera, dijelili smo ih međusobno. Ako netko od autora ovo vidi nek se slobodno javi pa ću ga potpisat. Ili ako nekom smeta, maknit ćemo. ;) Naravno ako imate prijedloga za dodat javite se, ubacit ćemo ih. Ili ako znate s GitHubom otvorite Pull request!
+
+Aplikacija je open-source, fork službene Stickers aplikacije, a sve stickere možete vidit u `assets` folderu.
+
+
+
+##  Linkovi
+
+Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako netko doda na druge poput Telegrama, Vibera, Messengera javite pa mogu dodat linkove ovdje.
+
+
+
+### WhatsApp
+
+WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima kako budu dolazili.
+
+[Play Store](https://play.google.com/store/apps/details?id=com.am.ricardstickeri)
+
+[Alternativni link](https://www.dropbox.com/s/kxiubu387p095wl/ricard-release.apk?dl=1) - Dok Play store ne potvrdi aplikaciju...
+
+
+
+### Signal
+
+Za Signal morate dodavat paket po paket, i nemam kontrolu nad njima, tako da ih ne mogu ažurirati.
+
+|          | Linkovi (otvorite na mobu)                                   |
+| -------- | ------------------------------------------------------------ |
+| Ričard   | https://signal.art/addstickers/#pack_id=084811fc7891a800dc96d2f8ff046076&pack_key=448da435bb016a45ee1137afd21122b47ad91aff9049d403d8b634d62d92bd36 |
+| Ričard 1 | https://signal.art/addstickers/#pack_id=100355316c2c7c7284206608a3f936e1&pack_key=d0f6f967761fb2c02ce7868962901c6fec6a3ef0398c1a3eac952ee4dd1170e9 |
+| Dragan   | https://signal.art/addstickers/#pack_id=160ca386e38d33867a468ff7e543a82f&pack_key=76a9b6f3e84f0ff52953cff7dcba455d9f6b3a4b7fb9288e63d4a7426aca0b19 |
+| Tebra    | https://signal.art/addstickers/#pack_id=c11dff90b64a0a343b62ff1ea061a080&pack_key=5ae939f1ca1899263301664c08e10f075942e08c1cf420716aaabbabc553a8ed |
+
+
+
 # WhatsApp Stickers
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
