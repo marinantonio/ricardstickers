@@ -1,15 +1,17 @@
 # Ričard stickers
 
 
-Ričard da da! Iđemooo!
+Da daa! Iđemooo!
 
 ![featured art](/.github/IMAGES/image.png?raw=true)
 
-Zamirišala mi je neka lova i odlučio sam je ugrabit! Pa sam tako natrpa ove dosad napravljene stickere i stavio ih na Play Store! Navodno sve mukte! 
+Zamirišala mi je neka lova ko janjetina, pa sam tako na brzinu natrpa ove dosad napravljene naljepnice (stickere) i stavio ih na Play Store! Navodno sve mukte! 
 
-Sad zaozbiljno, nisam siguran tko su autori pojedinih stickera, dijelili smo ih međusobno. Ako netko od autora ovo vidi nek se slobodno javi pa ću ga potpisat. Ili ako nekom smeta, maknit ćemo. ;) Naravno ako imate prijedloga za dodat javite se, ubacit ćemo ih. Ili ako znate s GitHubom otvorite Pull request!
+Sad zaozbiljno, nisam siguran tko su autori pojedinih stickera, dijelili smo ih međusobno. Ako netko od autora pročita ovo nek se slobodno javi pa ću ga potpisat. Isto vrijedi i ako netkom smeta pojedini sticker, mogu se lagano uklonit. ;) 
 
-Aplikacija je open-source, fork službene Stickers aplikacije, a sve stickere možete vidit u `assets` folderu.
+Sve nove naljepnice su dobrodošle, te ako imate prijedloga javite se! Možete ih i sami dodat ako ste vješti s Githubom, samo koristite Pull request!
+
+Aplikacija je open-source, fork službene WhatsApp Stickers aplikacije, a sve stickere možete vidit i u `assets` folderu.
 
 
 
@@ -31,7 +33,7 @@ WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima 
 
 ### Signal
 
-Za Signal morate dodavat paket po paket, i nemam kontrolu nad njima, tako da ih ne mogu ažurirati.
+Za Signal morate dodavat paket po paket, i nemam kontrolu nad njima, tako da ih ne mogu ažurirati. Nisu vezani s ovom aplikacijom iako su iste slike!
 
 |          | Linkovi (otvorite na mobu)                                   |
 | -------- | ------------------------------------------------------------ |
