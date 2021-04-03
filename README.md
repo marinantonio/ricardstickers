@@ -17,7 +17,7 @@ Aplikacija je open-source, fork službene WhatsApp Stickers aplikacije, a sve st
 
 ##  Linkovi
 
-Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako netko doda na druge poput Telegrama, Vibera, Messengera javite pa mogu dodat linkove ovdje.
+Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako se netko potrudi dodat i na druge javite pa mogu dodat ovdje.
 
 
 
