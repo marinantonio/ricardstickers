@@ -17,9 +17,10 @@ Aplikacija je open-source, fork službene WhatsApp Stickers aplikacije, a sve st
 
 ##  Linkovi
 
-### Izvor
+### Izvori
 
 [Konji Facebook page](https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701)
+
 [KUD Bleke i Konji](https://www.youtube.com/channel/UCjTHXMBBp87vwnTY9CPgfoA)
 
 Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako se netko potrudi dodat i na druge javite pa mogu dodat ovdje.
