@@ -1,4 +1,5 @@
 name: Android CI
+working-directory: ./Android
 
 on:
   push:
