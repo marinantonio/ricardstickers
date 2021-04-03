@@ -1,5 +1,4 @@
 name: Android CI
-working-directory: ./Android
 
 on:
   push:
@@ -13,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
+        shell: bash
         working-directory: ./Android
 
     steps:
