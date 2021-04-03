@@ -17,6 +17,11 @@ Aplikacija je open-source, fork službene WhatsApp Stickers aplikacije, a sve st
 
 ##  Linkovi
 
+### Izvor
+
+[Konji Facebook page](https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701)
+[KUD Bleke i Konji](https://www.youtube.com/channel/UCjTHXMBBp87vwnTY9CPgfoA)
+
 Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako se netko potrudi dodat i na druge javite pa mogu dodat ovdje.
 
 
@@ -27,7 +32,7 @@ WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima 
 
 [Play Store](https://play.google.com/store/apps/details?id=com.am.ricardstickeri)
 
-[Alternativni link](https://www.dropbox.com/s/kxiubu387p095wl/ricard-release.apk?dl=1) - Dok Play store ne potvrdi aplikaciju...
+[Alternativni link](https://www.dropbox.com/s/flphjgyo7fjukd4/ricard-release.apk?dl=1) - Dok Play store ne potvrdi aplikaciju...
 
 
 
