@@ -3,7 +3,7 @@
 
 Ričard da da! Iđemooo!
 
-![featured art](/.github/IMAGES/featured art.png?raw=true)
+![featured art](/.github/IMAGES/image.png?raw=true)
 
 Zamirišala mi je neka lova i odlučio sam je ugrabit! Pa sam tako natrpa ove dosad napravljene stickere i stavio ih na Play Store! Navodno sve mukte! 
 
