@@ -60,23 +60,8 @@ task checkDebug {
         if (android.defaultConfig.applicationId.startsWith("com.whatsapp")) {
             throw new GradleException("applicationId in defaultConfig cannot start with com.whatsapp, please change your applicationId in app/build.gradle")
         }
-        checkApplicationIdInDebug()
     }
 }
-
-private void checkApplicationIdInDebug() {
-    Properties properties = new Properties()
-    properties.load(project.rootProject.file('local.properties').newDataInputStream())
-    def ignoreApplicationIdCheck = properties.getProperty('ignoreApplicationIdCheck')
-    if (ignoreApplicationIdCheck == null) {
-        if (android.defaultConfig.applicationId == "com.example.samplestickerapp") {
-            throw new GradleException("Your applicationId is currently com.example.samplestickerapp, please change your applicationId to a different string in app/build.gradle in line 10")
-        }
-    } else {
-        println("application id check ignored")
-    }
-}
-
 
 task checkRelease {
     doLast {
