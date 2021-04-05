@@ -1,3 +1,55 @@
+# Ričard stickers
+
+
+Da daa! Iđemooo!
+
+![featured art](/.github/IMAGES/image.png?raw=true)
+
+Zamirišala mi je neka lova ko janjetina, pa sam tako na brzinu natrpa ove dosad napravljene naljepnice (stickere) i stavio ih na Play Store! Navodno sve mukte! 
+
+Sad zaozbiljno, nisam siguran tko su autori pojedinih stickera, dijelili smo ih međusobno. Ako netko od autora pročita ovo nek se slobodno javi pa ću ga potpisat. Isto vrijedi i ako netkom smeta pojedini sticker, mogu se lagano uklonit. ;) 
+
+Sve nove naljepnice su dobrodošle, te ako imate prijedloga javite se! Možete ih i sami dodat ako ste vješti s Githubom, samo koristite Pull request!
+
+Aplikacija je open-source, fork službene WhatsApp Stickers aplikacije, a sve stickere možete vidit i u `assets` folderu.
+
+
+
+##  Linkovi
+
+### Izvori
+
+[Konji Facebook page](https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701)
+
+[KUD Bleke i Konji](https://www.youtube.com/channel/UCjTHXMBBp87vwnTY9CPgfoA)
+
+Ja sam dodao naljepnice na dvije platforme, WhatsApp i Signal, a ako se netko potrudi dodat i na druge javite pa mogu dodat ovdje.
+
+
+
+### WhatsApp
+
+WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima kako budu dolazili.
+
+[Play Store](https://play.google.com/store/apps/details?id=com.am.ricardstickeri)
+
+[APK](https://www.dropbox.com/s/flphjgyo7fjukd4/ricard-release.apk?dl=1) - Ako nemate pristup Play Storeu
+
+
+
+### Signal
+
+Za Signal morate dodavat paket po paket, i nemam kontrolu nad njima, tako da ih ne mogu ažurirati. Nisu vezani s ovom aplikacijom iako su iste slike!
+
+|          | Linkovi (otvorite na mobu)                                   |
+| -------- | ------------------------------------------------------------ |
+| Ričard   | https://signal.art/addstickers/#pack_id=084811fc7891a800dc96d2f8ff046076&pack_key=448da435bb016a45ee1137afd21122b47ad91aff9049d403d8b634d62d92bd36 |
+| Ričard 1 | https://signal.art/addstickers/#pack_id=100355316c2c7c7284206608a3f936e1&pack_key=d0f6f967761fb2c02ce7868962901c6fec6a3ef0398c1a3eac952ee4dd1170e9 |
+| Dragan   | https://signal.art/addstickers/#pack_id=160ca386e38d33867a468ff7e543a82f&pack_key=76a9b6f3e84f0ff52953cff7dcba455d9f6b3a4b7fb9288e63d4a7426aca0b19 |
+| Tebra    | https://signal.art/addstickers/#pack_id=c11dff90b64a0a343b62ff1ea061a080&pack_key=5ae939f1ca1899263301664c08e10f075942e08c1cf420716aaabbabc553a8ed |
+
+
+
 # WhatsApp Stickers
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
