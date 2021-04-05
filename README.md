@@ -33,7 +33,7 @@ WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima 
 
 [Play Store](https://play.google.com/store/apps/details?id=com.am.ricardstickeri)
 
-[Alternativni link](https://www.dropbox.com/s/flphjgyo7fjukd4/ricard-release.apk?dl=1) - Dok Play store ne potvrdi aplikaciju...
+[APK](https://www.dropbox.com/s/flphjgyo7fjukd4/ricard-release.apk?dl=1) - Ako nemate pristup Play Storeu
 
 
 
