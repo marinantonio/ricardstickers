@@ -7,7 +7,7 @@
       "name": "Ričard",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "ricard_ikona.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -154,6 +154,27 @@
           "image_file": "21_Ricard_sokole.webp",
           "emojis": [
             "🦅"
+          ]
+        },
+        {
+          "image_file": "22_Ricard_stoj_oto.webp",
+          "emojis": [
+            "😕"
+          ]
+        },
+        {
+          "image_file": "23_Ricard_pivu_popit.webp",
+          "emojis": [
+            "😄",
+            "🍺"
+          ]
+        },
+        {
+          "image_file": "24_Ricard_sta_vi.webp",
+          "emojis": [
+            "🤬",
+            "😡",
+            "😤"
           ]
         }
       ]
