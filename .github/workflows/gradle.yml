@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: !dev_antonio/ci
+    branches: dev_antonio/ci
   pull_request:
-    branches: !dev_antonio/ci
+    branches: dev_antonio/ci
 
 jobs:
   build:
