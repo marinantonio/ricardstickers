@@ -30,4 +30,4 @@ jobs:
 
       - name: Da znan di san
         id: test
-        run: dir/s/b
+        run: realpath service_account.json
