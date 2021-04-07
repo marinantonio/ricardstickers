@@ -184,7 +184,7 @@
       "name": "Ričard 2",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "ricard2_ikona.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -242,15 +242,128 @@
           ]
         },
         {
-          "image_file": "08_Ricard2_govno_vlasko.webp",
+          "image_file": "08_Ricard_o_tuke.webp",
+          "emojis": [
+            "🐔",
+            "🍗"
+          ]
+        },
+        {
+          "image_file": "09_Ricard2_govno_vlasko.webp",
           "emojis": [
             "📢",
             "👨‍🌾"
           ]
         },
         {
-          "image_file": "09_Ricard2_un_se_bogu.webp",
+          "image_file": "10_Ricard2_zivija.webp",
           "emojis": [
+            "👋",
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11_Ricard2_tuke.webp",
+          "emojis": [
+            "🐔"
+          ]
+        },
+        {
+          "image_file": "12_Ricard2_tablete.webp",
+          "emojis": [
+            "🍷",
+            "💊"
+          ]
+        },
+        {
+          "image_file": "13_Ricard2_vrije.webp",
+          "emojis": [
+            "🍷",
+            "⛪",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "14_Ricard2_mlada_nedilja.webp",
+          "emojis": [
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "15_Ricard2_bumbaku.webp",
+          "emojis": [
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "16_Ricard2_djevice.webp",
+          "emojis": [
+            "🤬",
+            "⛪"
+          ]
+        },
+        {
+          "image_file": "17_Ricard2_sta_je_ovo.webp",
+          "emojis": [
+            "♨️",
+            "🔥",
+            "🌡️"
+          ]
+        },
+        {
+          "image_file": "18_Ricard2_upali.webp",
+          "emojis": [
+            "🛵",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "19_Ricard2_upali_pit.webp",
+          "emojis": [
+            "🛵",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "20_Ricard2_doci_ce_oni.webp",
+          "emojis": [
+            "😄",
+            "👋",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "21_Ricard2_ti_srce.webp",
+          "emojis": [
+            "🔫",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "22_Ricard2_bog_te_jeba.webp",
+          "emojis": [
+            "🔫",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "23_Ricard2_puska.webp",
+          "emojis": [
+            "🔫",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "24_Ricard2_freza.webp",
+          "emojis": [
+            "🚜"
+          ]
+        },
+        {
+          "image_file": "25_Ricard2_un_se_bogu.webp",
+          "emojis": [
+            "🚜",
             "⛪"
           ]
         }
@@ -261,7 +374,7 @@
       "name": "Dragan",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "dragan_ikona.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -306,6 +419,13 @@
           "image_file": "06_Dragan_prekini_bestimat.webp",
           "emojis": [
             "⛔"
+          ]
+        },
+        {
+          "image_file": "07_Dragan_dobro.webp",
+          "emojis": [
+            "🆗",
+            "👌"
           ]
         }
       ]
