@@ -1,5 +1,6 @@
 # Ričard stickers
 
+ [![Android Build](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml/badge.svg)](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml)
 
 Da daa! Iđemooo!
 
