@@ -2,7 +2,7 @@
 
  [![Android Build](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml/badge.svg)](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml)
 
-Da daa! Iđemooo!
+Da daa! Iđemoooo!
 
 ![featured art](/.github/IMAGES/image.png?raw=true)
 
