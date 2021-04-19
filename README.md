@@ -2,7 +2,7 @@
 
  [![Android Build](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml/badge.svg)](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml)
 
-Da daa! Iđemoooo!
+Da daa! Iđemooo!
 
 ![featured art](/.github/IMAGES/image.png?raw=true)
 
@@ -34,7 +34,7 @@ WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima 
 
 [Play Store](https://play.google.com/store/apps/details?id=com.am.ricardstickeri)
 
-[APK](https://www.dropbox.com/s/flphjgyo7fjukd4/ricard-release.apk?dl=1) - Ako nemate pristup Play Storeu
+[APK] - Ako treba APK javite se, otvorite issue ovdje
 
 
 

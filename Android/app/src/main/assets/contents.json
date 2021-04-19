@@ -370,6 +370,159 @@
       ]
     },
     {
+      "identifier": "3",
+      "name": "Ričard kod Doktora",
+      "publisher": "KUD Bleke i Konji",
+      "tray_image_file": "ricard3_ikona.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Ricard3_ajme.webp",
+          "emojis": [
+            "🤕",
+            "😢",
+            "😧"
+          ]
+        },
+        {
+          "image_file": "02_Ricard3_vi_ste_svoje_popili.webp",
+          "emojis": [
+            "👨‍⚕",
+            "🍺",
+            "🍹"
+          ]
+        },
+        {
+          "image_file": "03_Ricard3_rucak.webp",
+          "emojis": [
+            "🥪"
+          ]
+        },
+        {
+          "image_file": "04_Ricard3_alkohol_masan.webp",
+          "emojis": [
+            "🍺",
+            "🍹",
+            "🍷"
+          ]
+        },
+        {
+          "image_file": "05_Ricard3_u_dragana_jos.webp",
+          "emojis": [
+            "😀",
+            "🍷"
+          ]
+        },
+        {
+          "image_file": "06_Ricard3_neka_para.webp",
+          "emojis": [
+            "💸",
+            "💰"
+          ]
+        },
+        {
+          "image_file": "07_Ricard3_slusaj_me.webp",
+          "emojis": [
+            "🤬",
+            "🔥"
+          ]
+        },
+        {
+          "image_file": "08_Ricard3_nemoguce.webp",
+          "emojis": [
+            "🤷"
+          ]
+        },
+        {
+          "image_file": "09_Ricard3_nemoj_me_od_vina.webp",
+          "emojis": [
+            "🤬",
+            "🍷",
+            "📢"
+          ]
+        },
+        {
+          "image_file": "10_Ricard3_mogu_s_vragon.webp",
+          "emojis": [
+            "👿",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "11_Ricard3_ti_nedilju.webp",
+          "emojis": [
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "12_Ricard3_boli_nas.webp",
+          "emojis": [
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "13_Ricard3_ruke.webp",
+          "emojis": [
+            "🙌"
+          ]
+        },
+        {
+          "image_file": "14_Ricard3_dovle_je_dim.webp",
+          "emojis": [
+            "🤷",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "15_Ricard3_svi_su_otisli.webp",
+          "emojis": [
+            "🤷",
+            "😕"
+          ]
+        },
+        {
+          "image_file": "16_Ricard3_necu_ti_ja_to_stavljat.webp",
+          "emojis": [
+            "⛔",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "17_Ricard3_ni_vode.webp",
+          "emojis": [
+            "🍷",
+            "🚱"
+          ]
+        },
+        {
+          "image_file": "18_Ricard3_koga_ti_jebes.webp",
+          "emojis": [
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "19_Ricard3_kurac_si_ti_doktore.webp",
+          "emojis": [
+            "👨‍⚕",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "20_Ricard3_vidi_se_da_si_prepisiva.webp",
+          "emojis": [
+            "👨‍⚕",
+            "🤬",
+            "🎓"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "4",
       "name": "Dragan",
       "publisher": "KUD Bleke i Konji",
