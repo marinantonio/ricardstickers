@@ -7,7 +7,7 @@
       "name": "Ričard",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "ricard_ikona.png",
-      "image_data_version": "2",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -171,6 +171,14 @@
         },
         {
           "image_file": "24_Ricard_sta_vi.webp",
+          "emojis": [
+            "🤬",
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "25_Ricard_malo_si_se_nakra.webp",
           "emojis": [
             "🤬",
             "😡",
@@ -622,6 +630,176 @@
             "😦",
             "✊",
             "💪"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Ričard u Podkastu",
+      "publisher": "KUD Bleke i Konji, Podcast Inkubator",
+      "tray_image_file": "rade_ikona.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "01_Ricard4_pitaj_rade.webp",
+          "emojis": [
+            "👋"
+          ]
+        },
+        {
+          "image_file": "02_Ricard4_oce_opalit_neko.webp",
+          "emojis": [
+            "😦"
+          ]
+        },
+        {
+          "image_file": "03_Ricard4_ode_su_masline.webp",
+          "emojis": [
+            "😦",
+            "✊",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "04_Ricard4_iz_razreda_ovu_sliku.webp",
+          "emojis": [
+            "🤳",
+            "🏫"
+          ]
+        },
+        {
+          "image_file": "05_Ricard4_to_je_umjetnost.webp",
+          "emojis": [
+            "🎭",
+            "👔"
+          ]
+        },
+        {
+          "image_file": "06_Ricard4_draganeee.webp",
+          "emojis": [
+            "👋",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "07_Ricard4_ja_dosa.webp",
+          "emojis": [
+            "👋",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "08_Ricard4_prvi_put_studio.webp",
+          "emojis": [
+            "🎙️",
+            "🍺"
+          ]
+        }
+        ,        {
+          "image_file": "09_Ricard4_bgami_ljuljikati.webp",
+          "emojis": [
+            "😵",
+            "🍺"
+          ]
+        },
+        {
+          "image_file": "10_Ricard4_nisi_mi_reka.webp",
+          "emojis": [
+            "🤷",
+            "🤷‍♂"
+          ]
+        },
+        {
+          "image_file": "11_Ricard4_kad_ce_ovo_bit.webp",
+          "emojis": [
+            "⏰",
+            "📺"
+          ]
+        },
+        {
+          "image_file": "12_Ricard4_evo_20_poziva.webp",
+          "emojis": [
+            "📱",
+            "☎"
+          ]
+        },
+        {
+          "image_file": "13_Ricard4_ovo_ću_spremit.webp",
+          "emojis": [
+            "🍲",
+            "🍖",
+            "🥩"
+          ]
+        },
+        {
+          "image_file": "14_Ricard4_ija_sam_ja.webp",
+          "emojis": [
+            "🍲",
+            "🍖",
+            "🥩"
+          ]
+        },
+        {
+          "image_file": "15_Ricard4_ja_o_svemu.webp",
+          "emojis": [
+            "🤔",
+            "💭"
+          ]
+        },
+        {
+          "image_file": "16_Ricard4_nema_sanse_da_refa.webp",
+          "emojis": [
+            "👨‍⚕️",
+            "🥺"
+          ]
+        },
+        {
+          "image_file": "17_Ricard4_ajde_ajde.webp",
+          "emojis": [
+            "😠",
+            "🙎"
+          ]
+        },
+        {
+          "image_file": "18_Ricard4_nisi_iz_zadra.webp",
+          "emojis": [
+            "⛔",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "19_Ricard4_on_je_sposoban.webp",
+          "emojis": [
+            "🧞",
+            "🖥️"
+          ]
+        },
+        {
+          "image_file": "20_Ricard4_ostavi_se_toga.webp",
+          "emojis": [
+            "😠",
+            "🙎"
+          ]
+        },
+        {
+          "image_file": "21_Ricard4_lokacina.webp",
+          "emojis": [
+            "🍻",
+            "🍖",
+            "🥩"
+          ]
+        },
+        {
+          "image_file": "22_Ricard4_nisam_ti_ja_od_jucer.webp",
+          "emojis": [
+            "🤏"
           ]
         }
       ]
