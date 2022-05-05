@@ -7,7 +7,7 @@
       "name": "Ričard",
       "publisher": "KUD Bleke i Konji",
       "tray_image_file": "ricard_ikona.png",
-      "image_data_version": "3",
+      "image_data_version": "4",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -183,6 +183,14 @@
             "🤬",
             "😡",
             "😤"
+          ]
+        },
+        {
+          "image_file": "26_Ricard_ja_sam_na_nuli.webp",
+          "emojis": [
+            "😄",
+            "💸",
+            "💰"
           ]
         }
       ]
@@ -639,7 +647,7 @@
       "name": "Ričard u Podkastu",
       "publisher": "KUD Bleke i Konji, Podcast Inkubator",
       "tray_image_file": "rade_ikona.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
@@ -701,8 +709,8 @@
             "🎙️",
             "🍺"
           ]
-        }
-        ,        {
+        },
+        {
           "image_file": "09_Ricard4_bgami_ljuljikati.webp",
           "emojis": [
             "😵",
@@ -800,6 +808,235 @@
           "image_file": "22_Ricard4_nisam_ti_ja_od_jucer.webp",
           "emojis": [
             "🤏"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Ričard 4",
+      "publisher": "KUD Bleke i Konji",
+      "tray_image_file": "ricard3_ikona.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "01_Ricard5_socijalna_pomoc.webp",
+          "emojis": [
+            "🤝",
+            "🤔",
+            "💭"
+          ]
+        },
+        {
+          "image_file": "02_Ricard5_imam_krupnih_samo.webp",
+          "emojis": [
+            "😄",
+            "💸",
+            "💰"
+          ]
+        },
+        {
+          "image_file": "03_Ricard5_i_ne_srami_se.webp",
+          "emojis": [
+            "🤝",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "04_Ricard5_radi_nesto.png.webp",
+          "emojis": [
+            "🤏",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "05_Ricard5_grabi_samo.webp",
+          "emojis": [
+            "🤝",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "06_Ricard5_donesi_litru.webp",
+          "emojis": [
+            "🍺",
+            "🍹"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Ričard 5",
+      "publisher": "KUD Bleke i Konji",
+      "tray_image_file": "ricard5_ikona.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.facebook.com/Konji-nezavisna-lista-za-grad-Zadar-341440762643701/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "01_Ricard5_ocemo_na_pice.webp",
+          "emojis": [
+            "🍺",
+            "🍹",
+            "❓"
+          ]
+        },
+        {
+          "image_file": "02_Ricard5_daj_litru_i_litru.webp",
+          "emojis": [
+            "🍺",
+            "🍹"
+          ]
+        },
+        {
+          "image_file": "03_Ricard5_on_ti_meni_uvik_da.webp",
+          "emojis": [
+            "🤝",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "04_Ricard5_ocu_posteno_platit.webp",
+          "emojis": [
+            "💸",
+            "💰"
+          ]
+        },
+        {
+          "image_file": "05_Ricard5_pali_letimo.webp",
+          "emojis": [
+            "🛵",
+            "🔥"
+          ]
+        },
+        {
+          "image_file": "06_Ricard5_aj ti samenom kod tebe.webp",
+          "emojis": [
+            "🍳",
+            "🥪",
+            "😋"
+          ]
+        },
+        {
+          "image_file": "07_Ricard5_vices_ti_kad_ja_ne_budem.webp",
+          "emojis": [
+            "🤒",
+            "💔"
+          ]
+        },
+        {
+          "image_file": "08_Ricard5_prilipit_cu_ti_jednu.webp",
+          "emojis": [
+            "😠",
+            "✊",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "09_Ricard5_sta_ti_radis_sutra.webp",
+          "emojis": [
+            "⚙",
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "10_Ricard5_najgore_ti_je_u_kuci.webp",
+          "emojis": [
+            "🏠",
+            "😑"
+          ]
+        },
+        {
+          "image_file": "11_Ricard5_ostavi_se_posla.webp",
+          "emojis": [
+            "😠",
+            "⛔",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "12_Ricard5_mislis_li_ti.webp",
+          "emojis": [
+            "🤔",
+            "💭",
+            "🧠"
+          ]
+        },
+        {
+          "image_file": "13_Ricard5_kisa_ce.webp",
+          "emojis": [
+            "🌧️",
+            "☔",
+            "☂"
+          ]
+        },
+        {
+          "image_file": "14_Ricard5_jel_vidis_ti.webp",
+          "emojis": [
+            "👓",
+            "🙈"
+          ]
+        },
+        {
+          "image_file": "15_Ricard5_evo_ti.webp",
+          "emojis": [
+            "☝",
+            "👆"
+          ]
+        },
+        {
+          "image_file": "16_Ricard5_sta_je_bilo.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "17_Ricard5_sta_je.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "18_Ricard5_to_si_dobro_reka.webp",
+          "emojis": [
+            "🙋",
+            "⁉"
+          ]
+        },
+        {
+          "image_file": "19_Ricard5_a_boze_dragi.webp",
+          "emojis": [
+            "😮‍💨",
+            "⁉"
+          ]
+        },
+        {
+          "image_file": "20_Ricard5_ricard_art.webp",
+          "emojis": [
+            "🖌️",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "21_Ricard5_ukoci_odi.webp",
+          "emojis": [
+            "🚌",
+            "🚏",
+            "🛑"
           ]
         }
       ]
