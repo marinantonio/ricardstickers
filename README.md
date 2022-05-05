@@ -1,12 +1,12 @@
 # Ričard stickers
 
- [![Android Build](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml/badge.svg)](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_build.yml)
+[![Android Upload to Play Store](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_upload.yml/badge.svg)](https://github.com/marinantonio/ricardstickers/actions/workflows/gradle_upload.yml)
 
-Da daa! Iđemooo!
+Žderačina i lokačina, da daa! Iđemooo!
 
 ![featured art](/.github/IMAGES/image.png?raw=true)
 
-Zamirišala mi je neka lova ko janjetina, pa sam tako na brzinu natrpa ove dosad napravljene naljepnice (stickere) i stavio ih na Play Store! Navodno sve mukte! 
+Zamirišala mi je neka lova ko janjetina, pa sam natrpao Ričardove naljepnice (stickere) i stavio ih na Play Store! Navodno sve mukte!
 
 Sad zaozbiljno, nisam siguran tko su autori pojedinih stickera, dijelili smo ih međusobno. Ako netko od autora pročita ovo nek se slobodno javi pa ću ga potpisat. Isto vrijedi i ako netkom smeta pojedini sticker, mogu se lagano uklonit. ;) 
 
@@ -40,67 +40,27 @@ WhatsApp aplikacija sadrži sve pakete, i bit će ažurirana s novim stickerima 
 
 ### Signal
 
-Za Signal morate dodavat paket po paket, i nemam kontrolu nad njima, tako da ih ne mogu ažurirati. Nisu vezani s ovom aplikacijom iako su iste slike!
+Za Signal morate dodavat paket po paket te ih nije moguće ažurirati. Velika zahvala Šipeli na izradi paketa! 🍻
 
-|          | Linkovi (otvorite na mobu)                                   |
+| Naziv    | Linkovi (otvorite na mobu)                                   |
 | -------- | ------------------------------------------------------------ |
-| Ričard   | https://signal.art/addstickers/#pack_id=084811fc7891a800dc96d2f8ff046076&pack_key=448da435bb016a45ee1137afd21122b47ad91aff9049d403d8b634d62d92bd36 |
-| Ričard 1 | https://signal.art/addstickers/#pack_id=100355316c2c7c7284206608a3f936e1&pack_key=d0f6f967761fb2c02ce7868962901c6fec6a3ef0398c1a3eac952ee4dd1170e9 |
-| Dragan   | https://signal.art/addstickers/#pack_id=160ca386e38d33867a468ff7e543a82f&pack_key=76a9b6f3e84f0ff52953cff7dcba455d9f6b3a4b7fb9288e63d4a7426aca0b19 |
-| Tebra    | https://signal.art/addstickers/#pack_id=c11dff90b64a0a343b62ff1ea061a080&pack_key=5ae939f1ca1899263301664c08e10f075942e08c1cf420716aaabbabc553a8ed |
+| Ričard   | https://signal.art/addstickers/#pack_id=279b0d21bb9fd222e296dd0fbe0f90fe&pack_key=f7fb78efd78cfc9f80c8ac47d950901e941b81ab8cac81d16ada90c834807066 |
+| Ričard 2 | https://signal.art/addstickers/#pack_id=f6d33ee1061968c21125b4b5b0d70dbc&pack_key=ca6f4369f7ef6673f38cb5a00e5ab43fe4976f7df16aece97f6420c94469d1fe |
+| Ričard kod doktora   | https://signal.art/addstickers/#pack_id=da1bd8c2903f0bd4953048a1a6ecee59&pack_key=07e1ba00dd9045a920945fc0277f068aa01b1db2cbf15b4ea59890feffe3a8ba |
+| Dragan    | https://signal.art/addstickers/#pack_id=e58c6e75f46cead9eb645da8ce854091&pack_key=61cffbc485df372c24275f1f4f7f8063033abbc42e4fa0385ca7fe890edf2518 |
+| Tebra    | https://signal.art/addstickers/#pack_id=ec86682cc3c613cd113d9f282372525d&pack_key=4316e3f12455430ea9e9ed2a4f56795929543439481703bc03e82b8f95679adc |
+| Ričard u podkastu    | https://signal.art/addstickers/#pack_id=ecdb5c72b273a83d855aa8e44cce007a&pack_key=9fa628fe65c5532ea76372466da25e9d32d9610b9ff59fdcaecae02fbee7cd20 |
 
 
+### Kontakt
 
-# WhatsApp Stickers
+Za sve prijedloge/komentare ili ako vam trebaju iOS stickeri javite se u [WhatsApp grupi](https://chat.whatsapp.com/GnBhE2c22QP7PJkZfnMcnN?fbclid=IwAR0mz05Eh5ON6TQCPTythhj31VL4ehyye4QC82s6R3bSRIIHXySN_VqCAHc)!
 
-![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
-![Works with iOS](https://img.shields.io/badge/Works_with-iOS-blue?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/whatsapp/stickers?style=flat-square)
 
-> This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
+# Izvor/Source
 
-If you'd like to create your own [stickers for WhatsApp](https://faq.whatsapp.com/en/android/26000227/), you can package them in an Android or iOS app. 
+Ova aplikacija je modificirana kopija službenog [WhatsAppovog predloška za sticker aplikacije](https://github.com/WhatsApp/stickers).
 
-For Android users, you can publish your sticker app to the [Google Play Store](https://play.google.com/store) and users who download and install your app will be able to start sending those stickers right away from within WhatsApp. 
-For iOS developers please read the [IMPORTANT NOTICE ABOUT iOS APPS](#please-read-important-notice-about-ios-apps) section.
+This app is a fork of the official [WhatsApp’s sticker sample app](https://github.com/WhatsApp/stickers).
 
-**Stickers on WhatsApp must be legal, authorized and acceptable.** Learn more about acceptable uses of our services from our [Terms of Service](https://www.whatsapp.com/legal/#terms-of-service).
-
-## Get started :rocket:
-
-To get started, review the `README` files in the [Android](https://github.com/WhatsApp/stickers/tree/master/Android) or [iOS](https://github.com/WhatsApp/stickers/tree/master/iOS) folders, and refer to the [FAQ](https://faq.whatsapp.com/general/26000226).
-
-## PLEASE READ: IMPORTANT NOTICE ABOUT iOS APPS
-
-With Apple’s strict App Store review policy, we recommend iOS developers to submit apps that contain more functionality than to simply export stickers. This will increase the chances of the app being accepted. As an alternative to creating an iOS app, there are various sticker maker apps that help you create and import stickers into WhatsApp.
-
-The sample iOS app is an example on how to use our API to import stickers into WhatsApp, and can serve as guide on how to get started, but it is not meant to be used as template for your app because it will not be accepted by Apple.
-
-## Announcements :loudspeaker:
-Please check out [Announcements](https://github.com/WhatsApp/stickers/wiki/Animated-Stickers) for recent changes.
-
-## Brand guidelines
-When naming your app, it is strongly advised you do not use "WhatsApp" anywhere in the name of your app or in the name field of your app listing. However, when preparing your app for submission in Google Play Store/App Store, you'll have the option to add description associated with your app and it's okay to mention WhatsApp in the description. Make sure you use "WhatsApp" as brand name, with "W" and "A" capitalized with no space between letters. More information on WhatsApp Brand(https://whatsappbrand.com/).
-
-## Opening Issues :warning:
-
-> Only use the GitHub Issues section if you discovered **issues with the code itself**. Do not mistake the Issues page as a help desk. You can ask for help at [Stack Overflow](https://stackoverflow.com/questions/tagged/whatsapp-stickers).  
-> For support, please contact <developer@support.whatsapp.com>.
-
-- Create an [**Android**](https://github.com/WhatsApp/stickers/issues/new?template=android.md) issue
-- Create an [**iOS**](https://github.com/WhatsApp/stickers/issues/new?template=ios.md) issue
-- Create a [**general issue**](https://github.com/WhatsApp/stickers/issues/new?template=general.md)
-
-_For all three options, fill in all fields that apply._
-
-## Opening Pull Requests
-
-> In order for us to accept pull requests, please complete the Contributor License Agreement by following instructions in [`CONTRIBUTING`](https://github.com/WhatsApp/stickers/blob/master/CONTRIBUTING.md).
-
-1. Please check that a similar pull request doesn't exist already [here](https://github.com/WhatsApp/stickers/pulls?utf8=%E2%9C%93&q=is%3Apr)
-2. [Open a new pull request](https://github.com/WhatsApp/stickers/compare)
-3. Wait for someone to look at it :watch:
-
-## License
-
-WhatsApp Stickers is BSD licensed, as found in the [`LICENSE`](https://github.com/WhatsApp/stickers/blob/master/LICENSE) file.
+For further info please check [license](https://github.com/marinantonio/ricardstickers/blob/master/LICENSE).
