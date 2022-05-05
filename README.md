@@ -50,6 +50,8 @@ Za Signal morate dodavat paket po paket te ih nije moguće ažurirati. Velika za
 | Dragan    | https://signal.art/addstickers/#pack_id=e58c6e75f46cead9eb645da8ce854091&pack_key=61cffbc485df372c24275f1f4f7f8063033abbc42e4fa0385ca7fe890edf2518 |
 | Tebra    | https://signal.art/addstickers/#pack_id=ec86682cc3c613cd113d9f282372525d&pack_key=4316e3f12455430ea9e9ed2a4f56795929543439481703bc03e82b8f95679adc |
 | Ričard u podkastu    | https://signal.art/addstickers/#pack_id=ecdb5c72b273a83d855aa8e44cce007a&pack_key=9fa628fe65c5532ea76372466da25e9d32d9610b9ff59fdcaecae02fbee7cd20 |
+| Ričard 5 | https://signal.art/addstickers/#pack_id=cb4677e8c9a736130259b01860e4d5aa&pack_key=cff00ee008d549a235aa41ae6e6375cbb89f83c93f5be181811e13edecfaa6e1 |
+
 
 
 ### Kontakt
